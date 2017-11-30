@@ -20,7 +20,7 @@ great tool for crack password of zip file
 
 [!]  script work only with python 3 
 
-contact : gmail : lamanihani2@gmail.com
+contact : gmail : lamanihani1@gmail.com
 
 youtube : www.youtube.com/c/منضمةالهكرالعربية1
 

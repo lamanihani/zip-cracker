@@ -1,6 +1,7 @@
 ######################################## zip/rar password cracker ######################################
 #################### BY : Lamani Hani                  ( VEGETA-LFH )  #################################
-#################              CONTACT : fb : www.facebook.com/lamanihani              #################
+#################              CONTACT : youtube : www.youtube.com/c/منضمةالهكرالعربية1#################
+######################                     FB : Ha Ni                     ##########
 #########################          github : www.github.com/lamanihani       ############################
 #################### TNX TO : my GOD and prophet MOHAMED & Mom :v , mr.robot ;) ########################
 import os 

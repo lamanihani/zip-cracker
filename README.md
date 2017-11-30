@@ -4,11 +4,11 @@ great tool for crack password of zip file
 
 1 - download the script 
 
-2 - put your script in your Desktop
+2 - put the script file in your Desktop
 
 3 - open new terminal 
 
-4 - type : cd Desktop
+4 - type : cd Desktop/zip-cracker-master
 
 5 - type : python3 cracker.py
 
